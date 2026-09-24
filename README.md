@@ -169,7 +169,7 @@ Jedes Teammitglied erstellte zunächst unabhängig eine eigene Analyse. Anschlie
 - Python
 - pandas und NumPy für Datenaufbereitung und Analyse
 - Matplotlib und Seaborn für Visualisierungen
-- Jupyter Notebooks für die explorative Analyse
+- Google Colab für die explorative Analyse
 - Git und GitHub für die Versionskontrolle
 
 ## Repository-Struktur
